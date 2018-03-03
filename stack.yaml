@@ -16,4 +16,4 @@ packages:
   extra-dep: true
 
 extra-deps:
-- ansi-terminal-0.8.0.1
+- bindings-uname-0.1
