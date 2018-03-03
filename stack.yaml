@@ -1,4 +1,4 @@
-resolver: lts-10.5
+resolver: lts-9.14
 # docker:
 #   enable: true
 #   repo: fpco/stack-full
@@ -16,6 +16,7 @@ packages:
   extra-dep: true
 
 extra-deps:
+- ansi-terminal-0.8.0.1
 - Cabal-2.0.1.0
 - mintty-0.1.1
 - bindings-uname-0.1
